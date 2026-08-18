@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/carolynn71/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/carolynn71/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/carolynn71/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/carolynn71/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3546-equal-sum-grid-partition-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Math
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/carolynn71/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Simulation
 |  |
