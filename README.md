@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/carolynn71/Leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/carolynn71/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Simulation
 |  |
 | ------- |
