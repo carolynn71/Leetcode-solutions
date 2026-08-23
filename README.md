@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/carolynn71/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/carolynn71/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/carolynn71/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2463-minimum-total-distance-traveled](https://github.com/carolynn71/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/carolynn71/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/carolynn71/Leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/carolynn71/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/carolynn71/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1563-stone-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/carolynn71/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/carolynn71/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/carolynn71/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/carolynn71/Leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/carolynn71/Leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/carolynn71/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/carolynn71/Leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/carolynn71/Leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
