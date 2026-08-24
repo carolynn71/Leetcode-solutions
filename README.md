@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/carolynn71/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/carolynn71/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/carolynn71/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2463-minimum-total-distance-traveled](https://github.com/carolynn71/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/carolynn71/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/carolynn71/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/carolynn71/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1563-stone-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/carolynn71/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1872-stone-game-viii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/carolynn71/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/carolynn71/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/carolynn71/Leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Matrix
 |  |
 | ------- |
@@ -56,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2906-construct-product-matrix](https://github.com/carolynn71/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -133,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/carolynn71/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
