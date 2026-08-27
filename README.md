@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/carolynn71/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3660-jump-game-ix](https://github.com/carolynn71/Leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/carolynn71/Leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/carolynn71/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/carolynn71/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3225-maximum-score-from-grid-operations](https://github.com/carolynn71/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/carolynn71/Leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3660-jump-game-ix](https://github.com/carolynn71/Leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/carolynn71/Leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Game Theory
