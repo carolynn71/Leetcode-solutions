@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/carolynn71/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [1386-cinema-seat-allocation](https://github.com/carolynn71/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/carolynn71/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/carolynn71/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/carolynn71/Leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
