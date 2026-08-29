@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/carolynn71/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [1306-jump-game-iii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/carolynn71/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/carolynn71/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/carolynn71/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/carolynn71/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/carolynn71/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1563-stone-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/carolynn71/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/carolynn71/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/carolynn71/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
