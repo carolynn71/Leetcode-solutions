@@ -303,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1871-jump-game-vii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/carolynn71/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/carolynn71/Leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
