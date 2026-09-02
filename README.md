@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/carolynn71/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/carolynn71/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/carolynn71/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/carolynn71/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/carolynn71/Leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/carolynn71/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3225-maximum-score-from-grid-operations](https://github.com/carolynn71/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/carolynn71/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/carolynn71/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/carolynn71/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/carolynn71/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/carolynn71/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/carolynn71/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/carolynn71/Leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/carolynn71/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/carolynn71/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/carolynn71/Leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Counting
 |  |
