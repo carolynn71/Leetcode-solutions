@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/carolynn71/Leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/carolynn71/Leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/carolynn71/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
