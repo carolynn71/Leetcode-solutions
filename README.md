@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/carolynn71/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [1306-jump-game-iii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/carolynn71/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/carolynn71/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/carolynn71/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/carolynn71/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/carolynn71/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/carolynn71/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/carolynn71/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/carolynn71/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
