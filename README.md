@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/carolynn71/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/carolynn71/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/carolynn71/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/carolynn71/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/carolynn71/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/carolynn71/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/carolynn71/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/carolynn71/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/carolynn71/Leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/carolynn71/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/carolynn71/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/carolynn71/Leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/carolynn71/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
