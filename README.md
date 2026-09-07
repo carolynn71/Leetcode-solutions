@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0218-the-skyline-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/carolynn71/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0396-rotate-function](https://github.com/carolynn71/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/carolynn71/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/carolynn71/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/carolynn71/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/carolynn71/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 ## Sweep Line
 |  |
 | ------- |
@@ -501,4 +505,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0218-the-skyline-problem) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/carolynn71/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/carolynn71/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
