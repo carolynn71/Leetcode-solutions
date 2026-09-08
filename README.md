@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0743-network-delay-time](https://github.com/carolynn71/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/carolynn71/Leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/carolynn71/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/carolynn71/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/carolynn71/Leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/carolynn71/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/carolynn71/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/carolynn71/Leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/carolynn71/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -540,4 +543,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/carolynn71/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/carolynn71/Leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
