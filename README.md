@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/carolynn71/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0396-rotate-function](https://github.com/carolynn71/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [0480-sliding-window-median](https://github.com/carolynn71/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0628-maximum-product-of-three-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/carolynn71/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/carolynn71/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [1122-relative-sort-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/carolynn71/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/carolynn71/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [1871-jump-game-vii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/carolynn71/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Linked List
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0480-sliding-window-median](https://github.com/carolynn71/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0743-network-delay-time](https://github.com/carolynn71/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/carolynn71/Leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
@@ -611,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/carolynn71/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/carolynn71/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
