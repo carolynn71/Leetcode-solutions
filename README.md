@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/carolynn71/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0396-rotate-function](https://github.com/carolynn71/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0480-sliding-window-median](https://github.com/carolynn71/Leetcode-solutions/tree/master/0480-sliding-window-median) |
+| [0561-array-partition](https://github.com/carolynn71/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/carolynn71/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/carolynn71/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/carolynn71/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/carolynn71/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/carolynn71/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0274-h-index](https://github.com/carolynn71/Leetcode-solutions/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/carolynn71/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/carolynn71/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/carolynn71/Leetcode-solutions/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/carolynn71/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/carolynn71/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
