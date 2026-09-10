@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/carolynn71/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/carolynn71/Leetcode-solutions/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/carolynn71/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/carolynn71/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/carolynn71/Leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/carolynn71/Leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/carolynn71/Leetcode-solutions/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/carolynn71/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/carolynn71/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/carolynn71/Leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/carolynn71/Leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/carolynn71/Leetcode-solutions/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/carolynn71/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/carolynn71/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/carolynn71/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/carolynn71/Leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/carolynn71/Leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/carolynn71/Leetcode-solutions/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/carolynn71/Leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Bellman–Ford Algorithm
 |  |
@@ -652,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1825-finding-mk-average](https://github.com/carolynn71/Leetcode-solutions/tree/master/1825-finding-mk-average) |
+## K Shortest Path
+|  |
+| ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/carolynn71/Leetcode-solutions/tree/master/2045-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
