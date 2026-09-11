@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/carolynn71/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0592-fraction-addition-and-subtraction](https://github.com/carolynn71/Leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0780-reaching-points](https://github.com/carolynn71/Leetcode-solutions/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/carolynn71/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/carolynn71/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1563-stone-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -689,11 +690,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/carolynn71/Leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0780-reaching-points](https://github.com/carolynn71/Leetcode-solutions/tree/master/0780-reaching-points) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/carolynn71/Leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0780-reaching-points](https://github.com/carolynn71/Leetcode-solutions/tree/master/0780-reaching-points) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
