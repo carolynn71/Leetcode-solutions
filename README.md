@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/carolynn71/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/carolynn71/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1122-relative-sort-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/carolynn71/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/carolynn71/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-reaching-points](https://github.com/carolynn71/Leetcode-solutions/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/carolynn71/Leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/carolynn71/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/carolynn71/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1563-stone-game-v](https://github.com/carolynn71/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/carolynn71/Leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/carolynn71/Leetcode-solutions/tree/master/0480-sliding-window-median) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/carolynn71/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1122-relative-sort-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/carolynn71/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/carolynn71/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/carolynn71/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/carolynn71/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Minimax
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/carolynn71/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/carolynn71/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/carolynn71/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/carolynn71/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -691,12 +696,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/carolynn71/Leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0780-reaching-points](https://github.com/carolynn71/Leetcode-solutions/tree/master/0780-reaching-points) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/carolynn71/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/carolynn71/Leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0780-reaching-points](https://github.com/carolynn71/Leetcode-solutions/tree/master/0780-reaching-points) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/carolynn71/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
