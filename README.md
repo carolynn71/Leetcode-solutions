@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/carolynn71/Leetcode-solutions/tree/master/0292-nim-game) |
+| [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/carolynn71/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/carolynn71/Leetcode-solutions/tree/master/0788-rotated-digits) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0743-network-delay-time](https://github.com/carolynn71/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0743-network-delay-time](https://github.com/carolynn71/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/carolynn71/Leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -674,4 +677,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/carolynn71/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
