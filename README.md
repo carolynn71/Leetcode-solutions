@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/carolynn71/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/carolynn71/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/carolynn71/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/carolynn71/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1122-relative-sort-array](https://github.com/carolynn71/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/carolynn71/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/carolynn71/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/carolynn71/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/carolynn71/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/carolynn71/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
